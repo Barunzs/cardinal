@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Album</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data_not_available">Data Not Available</string>
+    <string name="departure_on">Departure On:</string>
+    <string name="defaultText">City</string>
+    <string name="nadata">No Data Available Rignt Now</string>
+</resources>
